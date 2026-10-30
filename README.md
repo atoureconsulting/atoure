@@ -165,3 +165,14 @@ silently:
 MTN, Canal+, Red Bull and others. Those are third-party trademarks. They are not
 part of this kit and must not be applied to merchandise without written
 permission from each rights holder.
+
+---
+
+## Offers
+
+`04-offers/` holds the written offers AToure takes to clients, so each can be
+adapted for new events and sectors.
+
+- `04-offers/creator-visibility-offer/`: talent access, creator management on
+  the ground, and the visibility report. Value proposition, how to adapt it by
+  event type, the report and data specification, and the pitch playbook.

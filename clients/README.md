@@ -1,12 +1,13 @@
-# Examples
+# Clients
 
-The first two clients the Creator Visibility Offer was built for. Use them
-as templates for new events.
+One folder per client: the decks, reports and material made for them. The
+first two were built with the Creator Visibility Offer
+(`offers/creator-visibility-offer/`); use them as templates for new events.
 
 | Folder | Client | What is inside |
 |---|---|---|
 | `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Deck PDF, deck source, sample report PDF and web page |
-| `aml/` | African MMA League (October 2026) | Deck PDF, deck source, sample report PDF and web page |
+| `african-mma-league/` | African MMA League (October 2026) | Deck PDF, deck source, sample report PDF and web page |
 
 ## In each folder
 
@@ -34,5 +35,5 @@ the AToure account:
 - The sample reports carry the client's logo on the letterhead. They are
   illustrations only and must never be shown as a real report.
 - The PFL Africa deck states gaps (no deliverables, no messaging) that PFL
-  Africa later corrected. Read `../pitch-playbook.md` before reusing its
+  Africa later corrected. Read `offers/creator-visibility-offer/pitch-playbook.md` before reusing its
   slide 2.

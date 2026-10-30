@@ -19,7 +19,9 @@ pitches taught us.
 
 ## The materials
 
-- **Deck:** eight slides, AToure dark green and gold, Oswald and Public Sans.
+- **Deck:** eight slides, designed as a merge of the client's look and
+  AToure's (`specs/client-design.md`). No single colour scheme: the first
+  two decks used the same dark green for two clients; do not copy that.
   Structure in `adapting-by-event-type.md`.
 - **Sample report:** white letterhead PDF with fictional figures, clearly
   labelled. Send it with the deck so the client can see the product.
@@ -97,7 +99,9 @@ say August 2026. The broadcaster is not confirmed.
 
 ## Open questions to settle
 
-- Pricing for the trial, the retainer and the report on its own.
+- Settled 30 October 2026: pricing is set per client by Baba, from the
+  client's budget and the scope of the work and responsibilities. No price
+  list.
 - A standard creator agreement with the data deadlines written in.
-- Which figure to quote for the Ashton Hall Africa Tour. The deck uses 1.57
-  billion; the website now uses the media kit figure. Use one everywhere.
+- Settled 30 October 2026: the Ashton Hall Africa Tour figure is 1.87
+  billion views everywhere.

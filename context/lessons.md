@@ -1,0 +1,54 @@
+# What We Have Learned
+
+The memory of the workspace. Every time Baba corrects a draft, or a pitch
+teaches us something, add a line here: the date, what happened, and the rule
+that follows. Newest at the top. Read this before any client facing work.
+
+## October 2026
+
+- **Proposals are not proof.** The CRM's outreach prompt listed Maina ×
+  TotalEnergies and the Maina pitch deck as real projects. Both are
+  proposals. Only cite what is in `context/proof.md`.
+- **Rules drift when they are copied.** The CRM called the company "Atoure
+  Consulting" and banned only em dashes. The endorsement letter called
+  AToure an agency. Two tour pages still do. `CLAUDE.md` is the master copy;
+  anything else that disagrees is wrong.
+- **Figures drift too.** The Ashton Hall Africa Tour appeared as 1.57 billion
+  in the decks, the case study pack and two proposals, and 1.87 billion on
+  the website. Baba confirmed 1.87 billion on 30 October 2026. When copying
+  an old deck, update its track record slide.
+- **No single colour scheme for client work.** The PFL Africa and AML decks
+  used the same green and gold for two different clients. Baba pitches very
+  different companies, so every deck and report merges the client's design
+  with AToure's (`specs/client-design.md`).
+- **Pricing is per client.** There is no price list. Baba prices each job
+  from the client's budget and the scope of the work and responsibilities.
+  Drafts never contain a price; they gather what Baba needs to set one.
+- **Opportunity lists go stale.** Both events in the 2026 opportunities list
+  had passed within weeks. Always check dates against today.
+- **The CRM is not a sales pipeline.** Its contacts are suppliers and
+  partners. Prospects live in `customers/`.
+- **Everything on GitHub here is public.** All AToure repos were public in
+  October 2026, including contact data. Write nothing confidential into a
+  repo until Baba confirms it is private.
+
+## From the first pitches (October 2026)
+
+- **PFL Africa:** our premise (no deliverables, no oversight, no messaging)
+  came from conversations on the ground, not their data, and was partly
+  wrong. Verify before stating a gap. The report was the part they valued.
+  Talent access is a real way in, even unpaid.
+- **African MMA League:** deck sent to Ismaël Bakayoko, the league's
+  founder and president. Built from public facts only. Reports gave three
+  dates for AML 10, so we said only August 2026. When sources disagree,
+  state less.
+
+## From the Africa Tour
+
+- @indian_ashtonhall joined in Nigeria, not Cameroon. Ashton Small was on
+  the Ghana, Cameroon and Rwanda legs. Only tag creators who were on that
+  leg.
+- Douala was the only Cameroonian market. Yaounde does not belong in any
+  market list.
+- Reach is always lower than views. One real Reel: 410,377 views, 46,846
+  accounts reached.

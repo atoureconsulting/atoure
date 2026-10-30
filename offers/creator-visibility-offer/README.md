@@ -18,7 +18,7 @@ Files in this folder:
 | `report-and-data.md` | What goes in the report, what creators and streamers send, labelling rules |
 | `pitch-playbook.md` | How to pitch it, deck structure, outreach patterns, lessons from the first pitches |
 
-Worked examples (decks and sample reports) are in `clients/` at the top of
+Worked examples (decks and sample reports) are in `customers/` at the top of
 this repo.
 
 ## The one line
@@ -129,6 +129,9 @@ everything as commercial viability: this is where new money comes from.
 | Retainer | Creators and reporting across a season or year of events, priced per event or per season | After a successful trial |
 | Report only | AToure collects the data and produces the visibility report; the client keeps managing its own creators | When the client already runs creators well |
 | Talent access | Guest access or paid placements for AToure creators and streamers | When the client wants talent but not management |
+
+Pricing is set per client by Baba, from the client's budget and the scope
+of the work and responsibilities. There is no price list.
 
 Price the report as its own product. When it is bundled, a client who says
 no to management also says no to the report.

@@ -33,6 +33,10 @@ prospect's logo, so the demo can go to anyone in that sector.
 
 ## Rules
 
+- Decks use the brand kit: gold, black and cream, Cormorant Garamond and
+  Jost (`brand/`).
+- The track record slide says 1.87 billion views for the Ashton Hall Africa
+  Tour.
 - Page one of every sample report says in red that every creator and figure
   is fictional.
 - Totals stay consistent from post to creator to summary, so the demo

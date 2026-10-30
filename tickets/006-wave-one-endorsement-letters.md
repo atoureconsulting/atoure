@@ -1,6 +1,6 @@
 # 006: Wave one endorsement letters
 
-Status: Open, blocked by 002 (the Ashton Hall figure)
+Status: Open
 Owner: Business development
 Opened: 2026 10 30
 

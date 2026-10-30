@@ -19,7 +19,9 @@ pitches taught us.
 
 ## The materials
 
-- **Deck:** eight slides, AToure dark green and gold, Oswald and Public Sans.
+- **Deck:** eight slides in the brand kit: gold, black and cream, Cormorant
+  Garamond and Jost (`brand/`). The first two decks used dark green with
+  Oswald and Public Sans; do not copy that look.
   Structure in `adapting-by-event-type.md`.
 - **Sample report:** white letterhead PDF with fictional figures, clearly
   labelled. Send it with the deck so the client can see the product.
@@ -99,5 +101,5 @@ say August 2026. The broadcaster is not confirmed.
 
 - Pricing for the trial, the retainer and the report on its own.
 - A standard creator agreement with the data deadlines written in.
-- Which figure to quote for the Ashton Hall Africa Tour. The deck uses 1.57
-  billion; the website now uses the media kit figure. Use one everywhere.
+- Settled 30 October 2026: the Ashton Hall Africa Tour figure is 1.87
+  billion views everywhere.

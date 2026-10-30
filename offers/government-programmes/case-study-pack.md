@@ -4,9 +4,9 @@ Purpose: reframe delivered projects for a government or tourism board audience,
 not a brand audience. Every figure below is already published on the AToure
 website. Nothing here is estimated.
 
-Warning, October 2026: this pack uses 1.57 billion views for the Ashton Hall
-Africa Tour. The website Work page now says 1.87 billion. Do not send either
-until Baba settles the figure (see `ROADMAP.md`).
+Updated 30 October 2026: the Ashton Hall Africa Tour figure is 1.87 billion
+views, the media kit figure, confirmed by Baba. Earlier versions said 1.57
+billion.
 
 ## Ashton Hall Africa Tour, 2026
 
@@ -15,7 +15,7 @@ Countries: Ghana, Cameroon, Nigeria, Benin and Rwanda.
 AToure delivered partnerships, media, visas, security, transport and full
 experience curation in every country on the tour.
 
-Result: 1.57 billion views.
+Result: 1.87 billion views.
 
 What this proves to a government: a single tour generated sustained global
 attention across five countries at once, with AToure managing the state
@@ -57,7 +57,7 @@ event from nothing, not just attach itself to an existing one.
 ## How to use this pack
 
 Lead with the country specific project when approaching that country's
-ministry or tourism board. Lead with the aggregate, five countries, 1.57
+ministry or tourism board. Lead with the aggregate, five countries, 1.87
 billion views, two federation level partnerships, when approaching a new
 market for the first time.
 

@@ -16,11 +16,10 @@ From `ROADMAP.md` and the October 2026 audit of all repos.
 ## Done means
 
 - [ ] Pricing for the trial, the retainer, and the report on its own
-- [ ] One Ashton Hall Africa Tour figure: 1.57 billion or 1.87 billion
-- [ ] Where the African MMA League pitch stands
-- [ ] Deck style: green with Oswald and Public Sans, or the brand kit (gold,
-      black, cream, Cormorant Garamond and Jost)
-- [ ] Where AToure is based day to day: London, Abidjan, or both
+- [x] One Ashton Hall Africa Tour figure: 1.87 billion (30 October)
+- [x] Where the African MMA League pitch stands: no reply yet (30 October)
+- [x] Deck style: the brand kit (30 October)
+- [x] Where AToure is based: London and Abidjan (30 October)
 - [ ] Whether "Ivory Coast national team campaigns" is real delivered work
 - [ ] Each answer copied into `context/` and the question removed from
       `ROADMAP.md`

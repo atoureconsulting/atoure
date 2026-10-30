@@ -13,7 +13,7 @@ from partial screenshots and are lower than the real totals.
 |---|---|---|
 | IShowSpeed Africa Tour: Ivory Coast | Full operation built from zero; two national sponsors (MTN, Solibra); 15 state visas; the Zaouli cultural activation | 55.8 million Instagram views, 10 million YouTube views |
 | IShowSpeed Africa Tour: Morocco and AFCON 2025 Final | Access through CAF and the Royal Moroccan Football Federation; the AFCON Final mascot reveal; visas, permits, security | Over 16 million YouTube views, the number one stream of the Africa tour |
-| Ashton Hall Africa Tour 2026 | Five countries: Ghana, Cameroon, Nigeria, Benin, Rwanda | **Not settled.** Do not quote until Baba confirms (see `ROADMAP.md`) |
+| Ashton Hall Africa Tour 2026 | Five countries: Ghana, Cameroon, Nigeria, Benin, Rwanda; partnerships, media, visas, security, transport | 1.87 billion views (media kit figure, confirmed 30 October 2026). Never 1.57 billion, the older figure |
 | Race Weekend, Abidjan | Our own Formula 1 experience | 9 partner brands, 300 guests a day |
 | DAZN, Qatar | Creator placed as exclusive live broadcaster for fight night | None |
 | Chicken Shop, London | Manlikeisaac placed for a product launch | 2.4 million campaign views |

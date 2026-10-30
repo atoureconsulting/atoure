@@ -16,7 +16,7 @@ Dear [Minister name, or Director General / CEO name and title],
 
 AToure Management & Consulting led [name the specific project, for example:
 the Ashton Hall Africa Tour, which brought a global creator through Ghana,
-Cameroon, Nigeria, Benin and Rwanda and generated (verified view figure)],
+Cameroon, Nigeria, Benin and Rwanda and generated 1.87 billion views],
 delivered together with [government body] in [year].
 
 We are now building formal, ongoing partnerships with a small number of
@@ -48,6 +48,6 @@ federation contact can often route it to the minister's office for
 signature faster than a first approach to the ministry directly.
 
 Do not send a figure in this letter that is not already published and
-verified. The Ashton Hall Africa Tour figure is not settled yet (see
-`ROADMAP.md`). Check every minister's name and title in
-`customers/government-outreach-tracker.csv` is current before sending.
+verified. The Ashton Hall Africa Tour figure is 1.87 billion views. Check
+every minister's name and title in `customers/government-outreach-tracker.csv`
+is current before sending.

@@ -62,7 +62,6 @@ Baba Touré, Director. Approves everything that leaves the company.
 ## Company details
 
 AToure Ltd, registered in England and Wales, company number 15129711.
-AToure Management & Consulting is its trading name. Registered office in
-London. Where the team is based day to day is not yet confirmed: one website
-page says London with offices in Ivory Coast, the CRM says Ivory Coast.
-Do not state a base in client copy until Baba confirms.
+AToure Management & Consulting is its trading name. Based in London and
+Abidjan: registered office in London, with a team on the ground in Abidjan.
+Write it that way in client copy.

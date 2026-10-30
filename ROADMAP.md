@@ -13,8 +13,8 @@ festivals, concerts, conferences, tourism campaigns and brand launches.
 
 - [ ] Ticket 001: make the private repos private. Before the first weekly
       routine on Monday 2 November.
-- [ ] Ticket 002: settle the open questions (pricing, the Ashton Hall figure,
-      the AML pitch, deck style, where AToure is based).
+- [ ] Ticket 002: settle the last open questions: pricing, and whether the
+      Ivory Coast national team campaigns are delivered work.
 - [ ] Ticket 003: festival demo.
 - [ ] Weekly business development routine: first run Monday 2 November.
 
@@ -22,8 +22,9 @@ festivals, concerts, conferences, tourism campaigns and brand launches.
 
 - [ ] Ticket 004: remove "agency" and "Atouré" from the tour pages.
 - [ ] Ticket 005: align the CRM outreach prompt with `CLAUDE.md`.
-- [ ] Ticket 006: wave one endorsement letters (after 002).
+- [ ] Ticket 006: wave one endorsement letters.
 - [ ] Ticket 007: sample reports readable on a phone.
+- [ ] Ticket 008: update the Janet Jackson and Taraji P. Henson proposals.
 - [ ] A tourism board demo, paired with `offers/government-programmes/`.
 - [ ] A conference or trade fair demo.
 - [ ] A standard creator agreement with the data deadlines written in.

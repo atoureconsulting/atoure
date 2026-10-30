@@ -13,9 +13,13 @@ that follows. Newest at the top. Read this before any client facing work.
   Consulting" and banned only em dashes. The endorsement letter called
   AToure an agency. Two tour pages still do. `CLAUDE.md` is the master copy;
   anything else that disagrees is wrong.
-- **Figures drift too.** The Ashton Hall Africa Tour appears as 1.57 billion
-  in the decks and the case study pack, and 1.87 billion on the website.
-  One figure, settled by Baba, used everywhere.
+- **Figures drift too.** The Ashton Hall Africa Tour appeared as 1.57 billion
+  in the decks, the case study pack and two proposals, and 1.87 billion on
+  the website. Baba confirmed 1.87 billion on 30 October 2026. When copying
+  an old deck, update its track record slide.
+- **Decks use the brand kit.** The PFL Africa and AML decks used green with
+  Oswald and Public Sans. From October 2026 decks use the brand kit: gold,
+  black and cream, Cormorant Garamond and Jost.
 - **Opportunity lists go stale.** Both events in the 2026 opportunities list
   had passed within weeks. Always check dates against today.
 - **The CRM is not a sales pipeline.** Its contacts are suppliers and

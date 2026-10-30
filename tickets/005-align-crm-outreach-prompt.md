@@ -24,7 +24,8 @@ The source of truth is `CLAUDE.md`, `context/voice.md` and
 
 ## Done means
 
-- [ ] Name, base, sign off and dash rule match `CLAUDE.md`
+- [ ] Name, sign off and dash rule match `CLAUDE.md`
+- [ ] Base reads London and Abidjan, not Ivory Coast
 - [ ] Project list matches `context/proof.md`
 - [ ] The CRM still builds (`npm run build`)
 - [ ] Pull request on `CRM`

@@ -33,5 +33,6 @@ says a plan is not needed.
 | `003-festival-demo.md` | Business development | Open |
 | `004-remove-agency-from-tour-pages.md` | Business development | Open |
 | `005-align-crm-outreach-prompt.md` | Business development | Open |
-| `006-wave-one-endorsement-letters.md` | Business development | Open, blocked by 002 |
+| `006-wave-one-endorsement-letters.md` | Business development | Open |
 | `007-sample-reports-on-a-phone.md` | Reporting analyst | Open |
+| `008-update-celebrity-proposals.md` | Business development | Open |

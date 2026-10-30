@@ -1,15 +1,26 @@
-# Clients
+# Customers
 
-One folder per client: the decks, reports and material made for them. The
-first two were built with the Creator Visibility Offer
-(`offers/creator-visibility-offer/`); use them as templates for new events.
+One folder per client or prospect: the research, decks, reports and material
+made for them. The first two were built with the Creator Visibility Offer
+(`offers/creator-visibility-offer/`).
 
-| Folder | Client | What is inside |
-|---|---|---|
-| `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Deck PDF, deck source, sample report PDF and web page |
-| `african-mma-league/` | African MMA League (October 2026) | Deck PDF, deck source, sample report PDF and web page |
+## Pipeline
 
-## In each folder
+Business development keeps this table current. Status is one of: Prospect,
+Pitched, Trial, Retainer, Closed.
+
+| Folder | Client | Status | Last contact | What is inside |
+|---|---|---|---|---|
+| `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Pitched. Declined the trial and managed service; valued the report idea; offered guest VIP and ringside access for AToure creators | October 2026 | Deck PDF, deck source, sample report PDF and web page |
+| `african-mma-league/` | African MMA League (October 2026) | Pitched. Outcome not recorded | October 2026 | Deck PDF, deck source, sample report PDF and web page |
+
+## A new folder
+
+- `brief.md`: the prospect brief (`specs/prospect-brief.md`).
+- The pitch pack once Baba approves the brief (`specs/pitch-pack.md`).
+- One subfolder per event for reports (`specs/visibility-report.md`).
+
+## In the first two folders
 
 - `deck.pdf`: the eight slide pitch deck. Rendered from the deck source for
   reference, so spacing can differ slightly from the live deck. For a deck to

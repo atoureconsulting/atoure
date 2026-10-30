@@ -125,7 +125,7 @@ view.
 
 Two fictional sample reports exist, same layout, white letterhead with the
 AToure and client logos: one for PFL Africa (Kigali) and one for the African
-MMA League (Abidjan). Both are in `clients/` at the top of this repo, as PDF and web page. To build
+MMA League (Abidjan). Both are in `customers/` at the top of this repo, as PDF and web page. To build
 a new one, copy the web page, change the letterhead logo, event, creator
 handles, countries and comments, and keep every total consistent from post
 to creator to summary.

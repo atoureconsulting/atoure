@@ -18,7 +18,7 @@ Files in this folder:
 | `report-and-data.md` | What goes in the report, what creators and streamers send, labelling rules |
 | `pitch-playbook.md` | How to pitch it, deck structure, outreach patterns, lessons from the first pitches |
 
-Worked examples (decks and sample reports) are in `clients/` at the top of
+Worked examples (decks and sample reports) are in `customers/` at the top of
 this repo.
 
 ## The one line

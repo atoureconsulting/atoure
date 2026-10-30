@@ -3,6 +3,10 @@
 Who: Reporting analyst.
 When: Starts before a client event and runs to day 14 after it.
 
+This routine follows an event, not the calendar. When a client event is
+confirmed, ask Claude to schedule one reminder each for day 1, day 2, day 7
+and day 14 after the event date.
+
 ## Before the event
 
 Check that every creator has the brief, the deliverables, a tracked link and

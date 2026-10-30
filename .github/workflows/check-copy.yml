@@ -1,0 +1,19 @@
+name: Check copy
+
+# Runs the house rules (tools/check-copy.js) on every file a pull request
+# changes. A red cross on the pull request means a rule is broken; the log
+# lists each line.
+
+on: pull_request
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check changed files against the house rules
+        run: |
+          git diff -z --name-only --diff-filter=AM "origin/${{ github.base_ref }}...HEAD" \
+            | xargs -0 --no-run-if-empty node tools/check-copy.js

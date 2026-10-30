@@ -3,6 +3,16 @@
 Every draft passes this check before it goes to Baba. The AI employee that
 made it runs the check first and fixes what fails. Baba has the final say.
 
+## Before and after
+
+- [ ] Read the diff: every file changed, compared with `main`. Nothing
+      changed that the ticket did not ask for.
+- [ ] `node tools/check-copy.js` is clean. With no file names it checks
+      everything changed on the branch. The same check runs on every pull
+      request on GitHub.
+- [ ] For anything a client opens in a browser: `node tools/eyes.js <file>`,
+      then the screenshots read as a client would (`specs/eyes-check.md`).
+
 ## House rules
 
 - [ ] No hyphens, en dashes or em dashes anywhere in the copy, including

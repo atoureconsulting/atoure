@@ -11,56 +11,65 @@ festivals, concerts, conferences, tourism campaigns and brand launches.
 
 ## Now
 
-- [ ] Build a festival demo: a fictional sample report and deck for a West
-      African music festival. Lead with sponsor activation and diaspora
-      reach. (`demos/`)
-- [ ] Refresh the opportunity list. Both events in the website repo's
-      `Resources/near-term-opportunities-2026.md` have passed: IATF in
-      September, and the Magical Kenya Travel Expo on 6 to 8 October. Find
-      events three to six months out in the target sectors.
-- [ ] Run the first weekly business development routine and produce three
-      prospect briefs.
+- [ ] Ticket 001: make the private repos private. Before the first weekly
+      routine on Monday 2 November.
+- [ ] Ticket 002: settle the open questions (pricing, the Ashton Hall figure,
+      the AML pitch, deck style, where AToure is based).
+- [ ] Ticket 003: festival demo.
+- [ ] Weekly business development routine: first run Monday 2 November.
 
 ## Next
 
-- [ ] A tourism board demo, paired with the Programs Menu in the website
-      repo.
+- [ ] Ticket 004: remove "agency" and "Atouré" from the tour pages.
+- [ ] Ticket 005: align the CRM outreach prompt with `CLAUDE.md`.
+- [ ] Ticket 006: wave one endorsement letters (after 002).
+- [ ] Ticket 007: sample reports readable on a phone.
+- [ ] A tourism board demo, paired with `offers/government-programmes/`.
 - [ ] A conference or trade fair demo.
 - [ ] A standard creator agreement with the data deadlines written in.
-- [ ] Bring the other repos in line with `CLAUDE.md` (see Known issues).
 
 ## Later
 
 - [ ] Retainer packaging for clients who convert from a trial.
-- [ ] More AI employees: a talent coordinator (talent database) and a content
-      and social writer (website and captions).
-
-## Open questions for Baba
-
-- Pricing for the trial, the retainer and the report on its own. Until this
-  is set, no draft quotes a price.
-- Which Ashton Hall Africa Tour figure to quote everywhere. The decks use
-  1.57 billion; the website uses the media kit figure, 1.87 billion.
-- Where the African MMA League pitch stands.
-- Which deck style is right. The pitch playbook says dark green and gold with
-  Oswald and Public Sans. The brand kit has no green and uses Cormorant
-  Garamond and Jost.
+- [ ] Price bands for each government programme, so a ministry can say yes
+      to a defined scope.
+- [ ] More AI employees: a talent coordinator (talent database) and a
+      content and social writer (website and captions).
 
 ## Known issues in other repos
 
-Logged here, not yet fixed.
+From the audit of all four repos on 30 October 2026, using
+`node tools/check-copy.js`. Main site pages (home, about, services, work,
+case studies) are clean.
 
-- `CRM`: the outreach prompt calls the company "Atoure Consulting" and bans
-  only em dashes, not all hyphens and dashes.
-- `atoure-talent-database`: page titles use em dashes.
+| File | Problems |
+|---|---|
+| `website/ashton-hall-tour.html` | "agency", "Atouré" 21 times, 103 dashes, 27 hyphens (ticket 004) |
+| `website/ashton-hall-prep.html` | "agency" twice, "Atouré" 22 times, 52 dashes, 23 hyphens (ticket 004) |
+| `website/maina-totalenergies.html` | 82 dashes, 25 hyphens |
+| `website/ivory-coast-experience.html` | "Atouré" 14 times, 30 dashes, 21 hyphens |
+| `website/maina-pitch-deck.html` | 32 dashes, 8 hyphens |
+| `website/race-weekend-report-fr.html` | 13 hyphens, some may be correct French |
+| `website/janet-jackson-proposal.html`, `taraji-henson-proposal.html` | "Atouré" twice each |
+| `CRM/src/components/OutreachModal.jsx` | "Atoure Consulting", based in Ivory Coast, proposals listed as projects (ticket 005) |
+| `atoure-talent-database` | Em dashes in titles and footer, 12 in total |
+
+Also:
+
+- Every AToure repo on GitHub is public, including the CRM's contact data
+  (ticket 001).
+- Confidential proposals (Janet Jackson, Taraji P. Henson, Maina ×
+  TotalEnergies) sit in the public website repo.
 - `website/.claude/skills`: several skills assume a software product
   (paywall, churn, sign up flow, onboarding, App Store, free tool,
-  programmatic SEO, directory submissions, referral programme). They do not
-  fit AToure.
+  programmatic SEO, directory submissions, referral programme).
+- The "Countries Activated" list in the website repo includes Spain,
+  Germany, Turkey and the Republic of Congo, which the About page does not.
 
 ## Done
 
 - October 2026: Creator Visibility Offer written; PFL Africa and AML decks
   and sample reports built.
-- October 2026: AI workspace set up: `CLAUDE.md`, `REVIEW.md`, context,
-  specs, demos and routines.
+- 30 October 2026: AI workspace set up: memory, briefs, tickets,
+  permissions, Eyes, Review and schedule. Government programmes moved in
+  from the website repo.

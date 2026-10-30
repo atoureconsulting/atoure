@@ -11,14 +11,26 @@ from partial screenshots and are lower than the real totals.
 
 | Project | What we did | Published figure |
 |---|---|---|
-| IShowSpeed Africa Tour: Ivory Coast | Full operation built from zero; two national sponsors (MTN, Solibra); 15 state visas | 55.8 million Instagram views |
-| IShowSpeed Africa Tour: Morocco | Access through CAF and the Royal Moroccan Football Federation; visas, permits, security | Over 16 million YouTube views |
+| IShowSpeed Africa Tour: Ivory Coast | Full operation built from zero; two national sponsors (MTN, Solibra); 15 state visas; the Zaouli cultural activation | 55.8 million Instagram views, 10 million YouTube views |
+| IShowSpeed Africa Tour: Morocco and AFCON 2025 Final | Access through CAF and the Royal Moroccan Football Federation; the AFCON Final mascot reveal; visas, permits, security | Over 16 million YouTube views, the number one stream of the Africa tour |
 | Ashton Hall Africa Tour 2026 | Five countries: Ghana, Cameroon, Nigeria, Benin, Rwanda | **Not settled.** Do not quote until Baba confirms (see `ROADMAP.md`) |
 | Race Weekend, Abidjan | Our own Formula 1 experience | 9 partner brands, 300 guests a day |
 | DAZN, Qatar | Creator placed as exclusive live broadcaster for fight night | None |
 | Chicken Shop, London | Manlikeisaac placed for a product launch | 2.4 million campaign views |
 | Ashton Hall, London | Visit logistics; hospitality brand deal closed during the visit | None |
 | Rotimi, UK tour | Shoot locations, VIP access, operations | None |
+
+## Not proof
+
+These are proposals or unconfirmed. Never cite them as delivered work.
+
+| Item | What it is |
+|---|---|
+| Abdullahi Maina × TotalEnergies | A confidential creator proposition (website page `maina-totalenergies.html`) |
+| Maina pitch deck | A pitch deck, not a project |
+| Janet Jackson in Côte d'Ivoire | A confidential proposal |
+| Taraji P. Henson × Côte d'Ivoire | A confidential proposal |
+| "Ivory Coast national team campaigns" | Listed in the CRM's outreach prompt, but on no case study. Ask Baba |
 
 ## Rules for figures
 

@@ -21,11 +21,19 @@ page on the website):
 5. **Strategic introductions.** Business partners, sponsors, sector
    specialists, private client arrangements.
 
-The offer we are taking to new clients now is the **Creator Visibility
-Offer** (`offers/creator-visibility-offer/`): talent access, creator
-management on the ground, and the visibility report. Creators produce
-visibility. AToure makes that visibility provable, so it can be sold to
-sponsors and shown to investors.
+## Two lines of business
+
+**Creator Visibility Offer** (`offers/creator-visibility-offer/`). For event
+owners, leagues and brands: talent access, creator management on the
+ground, and the visibility report. Creators produce visibility. AToure makes
+that visibility provable, so it can be sold to sponsors and shown to
+investors. This is the current goal.
+
+**Government programmes** (`offers/government-programmes/`). For ministries,
+tourism boards and federations: four programmes drawn from delivered work.
+Creator and celebrity tourism tours, sports diplomacy activations, cultural
+activation with sponsor placement, and premium experience builds. The
+country pipeline is `customers/government-outreach-tracker.csv`.
 
 ## How we work
 
@@ -54,4 +62,7 @@ Baba Touré, Director. Approves everything that leaves the company.
 ## Company details
 
 AToure Ltd, registered in England and Wales, company number 15129711.
-AToure Management & Consulting is its trading name.
+AToure Management & Consulting is its trading name. Registered office in
+London. Where the team is based day to day is not yet confirmed: one website
+page says London with offices in Ivory Coast, the CRM says Ivory Coast.
+Do not state a base in client copy until Baba confirms.

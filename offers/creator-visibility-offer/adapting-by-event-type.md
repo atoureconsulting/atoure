@@ -79,7 +79,7 @@ right side as what the next stage needs, not as faults.
 - **Festival:** a music festival in West Africa. Lead with sponsor
   activation value and diaspora reach.
 - **Conference or trade fair:** IATF and similar events listed in
-  `Resources/near-term-opportunities-2026.md` in the website repo. Lead with international visibility
+  `customers/opportunities-2026.md`. Lead with international visibility
   for the host country.
-- **Tourism board:** pair with the Programs Menu in `Resources/programs-menu.md` in the website repo.
+- **Tourism board:** pair with the Programs Menu in `offers/government-programmes/`.
   The report becomes the proof layer for every programme there.

@@ -14,6 +14,13 @@ Pitched, Trial, Retainer, Closed.
 | `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Pitched. Declined the trial and managed service; valued the report idea; offered guest VIP and ringside access for AToure creators | October 2026 | Deck PDF, deck source, sample report PDF and web page |
 | `african-mma-league/` | African MMA League (October 2026) | Pitched. Outcome not recorded | October 2026 | Deck PDF, deck source, sample report PDF and web page |
 
+## Other pipelines
+
+| File | What it holds |
+|---|---|
+| `government-outreach-tracker.csv` | 54 countries in three waves for the government programmes, with ministries, contacts and next steps. Check every name and title is current before use |
+| `opportunities-2026.md` | Events from August 2026. Both have passed; kept for the record |
+
 ## A new folder
 
 - `brief.md`: the prospect brief (`specs/prospect-brief.md`).

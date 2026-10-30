@@ -43,6 +43,32 @@ They stay open but are not the focus of new prospecting.
 - Wants paid ads or a campaign bought on its behalf. That is not what we
   sell.
 
+## The second line: governments
+
+Ministries, tourism boards and federations buy the government programmes
+(`offers/government-programmes/`). They want a fast, visible lift in
+international awareness, a sporting or cultural moment produced for a global
+audience, or a signature event of their own.
+
+The pipeline is `customers/government-outreach-tracker.csv`, in three waves:
+
+| Wave | Countries | Status |
+|---|---|---|
+| 1 | Ghana, Cameroon, Nigeria, Benin, Rwanda, Morocco, Ivory Coast | Already activated. Next step: endorsement letters |
+| 2 | Kenya, Senegal, Tanzania, Egypt, South Africa, Seychelles | Warm approach planned. Officials need research |
+| 3 | 41 more countries | Not yet researched |
+
+Approach through the operational contact who ran the project (tourism
+board, federation), not the minister cold. Confirm every name and title is
+current before use: ministers change.
+
+## Who is not a buyer
+
+The CRM's 356 contacts are mostly suppliers and partners in Abidjan who
+applied to work with AToure (media, venues, catering, production,
+logistics, security), plus UK hotels, PR and experiences. They are a supply
+network, not prospects for either offer.
+
 ## Lessons so far
 
 - Clients may already run creators well. PFL Africa did. Research before

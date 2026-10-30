@@ -1,0 +1,19 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-28T09:00:00Z"},
+  "lists": "css",
+  "title": "AToure x AML, Trial Proposal",
+  "order": ["cover", "recap", "why-now", "answer", "report", "proposal", "track-record", "close"],
+  "sections": {
+    "s1": {"description": "Opening and where the league stands today", "start": "cover"},
+    "s2": {"description": "Why this matters while the league grows", "start": "why-now"},
+    "s3": {"description": "The AToure answer: managed creators plus the after action report", "start": "answer"},
+    "s4": {"description": "The trial proposal", "start": "proposal"},
+    "s5": {"description": "The track record and the ask", "start": "track-record"}
+  },
+  "faces": {
+    "oswald": {"family": "Oswald", "href": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600;700&display=swap"},
+    "public-sans": {"family": "Public Sans", "href": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600;700&display=swap"}
+  },
+  "designSystems": []
+}

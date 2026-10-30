@@ -1,0 +1,19 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-26T12:00:00Z"},
+  "lists": "css",
+  "title": "AToure x PFL Africa, Rwanda Trial Proposal",
+  "order": ["cover", "recap", "why-now", "answer", "report", "proposal", "track-record", "close"],
+  "sections": {
+    "s1": {"description": "Opening and recap of the relationship so far", "start": "cover"},
+    "s2": {"description": "Why this matters before 2027", "start": "why-now"},
+    "s3": {"description": "The AToure answer: creators plus the after action report", "start": "answer"},
+    "s4": {"description": "The Rwanda trial proposal", "start": "proposal"},
+    "s5": {"description": "The track record and the ask", "start": "track-record"}
+  },
+  "faces": {
+    "oswald": {"family": "Oswald", "href": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600;700&display=swap"},
+    "public-sans": {"family": "Public Sans", "href": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Public+Sans:wght@300;400;500;600;700&display=swap"}
+  },
+  "designSystems": []
+}

@@ -17,9 +17,13 @@ that follows. Newest at the top. Read this before any client facing work.
   in the decks, the case study pack and two proposals, and 1.87 billion on
   the website. Baba confirmed 1.87 billion on 30 October 2026. When copying
   an old deck, update its track record slide.
-- **Decks use the brand kit.** The PFL Africa and AML decks used green with
-  Oswald and Public Sans. From October 2026 decks use the brand kit: gold,
-  black and cream, Cormorant Garamond and Jost.
+- **No single colour scheme for client work.** The PFL Africa and AML decks
+  used the same green and gold for two different clients. Baba pitches very
+  different companies, so every deck and report merges the client's design
+  with AToure's (`specs/client-design.md`).
+- **Pricing is per client.** There is no price list. Baba prices each job
+  from the client's budget and the scope of the work and responsibilities.
+  Drafts never contain a price; they gather what Baba needs to set one.
 - **Opportunity lists go stale.** Both events in the 2026 opportunities list
   had passed within weeks. Always check dates against today.
 - **The CRM is not a sales pipeline.** Its contacts are suppliers and
@@ -34,7 +38,8 @@ that follows. Newest at the top. Read this before any client facing work.
   came from conversations on the ground, not their data, and was partly
   wrong. Verify before stating a gap. The report was the part they valued.
   Talent access is a real way in, even unpaid.
-- **African MMA League:** built from public facts only. Reports gave three
+- **African MMA League:** deck sent to Ismaël Bakayoko, the league's
+  founder and president. Built from public facts only. Reports gave three
   dates for AML 10, so we said only August 2026. When sources disagree,
   state less.
 

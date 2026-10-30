@@ -23,10 +23,13 @@ One page that tells Baba whether a prospect is worth pitching, and how.
    expansion, a new edition to sell.
 5. **The fit.** Which event type row applies, what they would need to prove,
    which creators fit, which extra report metrics.
-6. **Way in.** Trial, report only, or talent access, and why.
-7. **Risks.** What we do not know. What could make this a poor fit.
-8. **Recommendation.** Pitch now, watch, or drop. One sentence.
-9. **Sources.** Every link used.
+6. **Way in.** Trial, report only, or talent access, and why. Any public
+   signal of budget: sponsors, event size, past campaigns.
+7. **Their look.** Logo, main colours, typefaces, with links. This starts
+   `design.md` if the brief is approved.
+8. **Risks.** What we do not know. What could make this a poor fit.
+9. **Recommendation.** Pitch now, watch, or drop. One sentence.
+10. **Sources.** Every link used.
 
 ## Done means
 

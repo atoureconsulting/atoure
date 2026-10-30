@@ -13,8 +13,8 @@ festivals, concerts, conferences, tourism campaigns and brand launches.
 
 - [ ] Ticket 001: make the private repos private. Before the first weekly
       routine on Monday 2 November.
-- [ ] Ticket 002: settle the last open questions: pricing, and whether the
-      Ivory Coast national team campaigns are delivered work.
+- [ ] Ticket 002: one question left: are the Ivory Coast national team
+      campaigns delivered work?
 - [ ] Ticket 003: festival demo.
 - [ ] Weekly business development routine: first run Monday 2 November.
 
@@ -32,8 +32,8 @@ festivals, concerts, conferences, tourism campaigns and brand launches.
 ## Later
 
 - [ ] Retainer packaging for clients who convert from a trial.
-- [ ] Price bands for each government programme, so a ministry can say yes
-      to a defined scope.
+- [ ] Scope options for each government programme, so a ministry can say
+      yes to a defined scope. Prices stay per client.
 - [ ] More AI employees: a talent coordinator (talent database) and a
       content and social writer (website and captions).
 

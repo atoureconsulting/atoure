@@ -37,7 +37,10 @@ made it runs the check first and fixes what fails. Baba has the final say.
 - [ ] No gap is stated as fact unless the prospect's own data shows it.
 - [ ] The report is mentioned early, not halfway down.
 - [ ] Any sample report attached is marked fictional, and the email says so.
-- [ ] No price appears until pricing is set.
+- [ ] No price appears. Baba prices each job from the client's budget and
+      the scope, so the pitch asks for those instead.
+- [ ] The deck merges the client's design with AToure's
+      (`specs/client-design.md`), recorded in the client's `design.md`.
 - [ ] Only creators in the AToure network are named, with their real track
       record.
 

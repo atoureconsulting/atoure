@@ -33,8 +33,9 @@ prospect's logo, so the demo can go to anyone in that sector.
 
 ## Rules
 
-- Decks use the brand kit: gold, black and cream, Cormorant Garamond and
-  Jost (`brand/`).
+- Demos show the merged design method (`specs/client-design.md`) using an
+  invented client identity. When a demo goes to a real prospect, restyle it
+  to that prospect first.
 - The track record slide says 1.87 billion views for the Ashton Hall Africa
   Tour.
 - Page one of every sample report says in red that every creator and figure

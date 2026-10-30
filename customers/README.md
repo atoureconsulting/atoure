@@ -12,7 +12,7 @@ Pitched, Trial, Retainer, Closed.
 | Folder | Client | Status | Last contact | What is inside |
 |---|---|---|---|---|
 | `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Pitched. Declined the trial and managed service; valued the report idea; offered guest VIP and ringside access for AToure creators | October 2026 | Deck PDF, deck source, sample report PDF and web page |
-| `african-mma-league/` | African MMA League (October 2026) | Pitched. No reply yet as of 30 October 2026 | October 2026 | Deck PDF, deck source, sample report PDF and web page |
+| `african-mma-league/` | African MMA League (October 2026) | Pitched. Deck sent to Ismaël Bakayoko, founder and president. No reply yet as of 30 October 2026 | October 2026 | Deck PDF, deck source, sample report PDF and web page |
 
 ## Other pipelines
 
@@ -24,13 +24,17 @@ Pitched, Trial, Retainer, Closed.
 ## A new folder
 
 - `brief.md`: the prospect brief (`specs/prospect-brief.md`).
+- `design.md`: the client's look and the merged palette
+  (`specs/client-design.md`).
 - The pitch pack once Baba approves the brief (`specs/pitch-pack.md`).
 - One subfolder per event for reports (`specs/visibility-report.md`).
 
 ## In the first two folders
 
 Both decks show the old Ashton Hall figure (1.57 billion) on the track record
-slide and use the old green deck style. Fix both before copying either.
+slide, and share one green look that was not built from either client's
+design. Fix the figure and restyle (`specs/client-design.md`) before copying
+either.
 
 - `deck.pdf`: the eight slide pitch deck. Rendered from the deck source for
   reference, so spacing can differ slightly from the live deck. For a deck to

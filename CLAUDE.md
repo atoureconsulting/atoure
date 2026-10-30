@@ -80,8 +80,9 @@ programme work when a ticket asks for it.
 - Produces: prospect briefs (`specs/prospect-brief.md`) and pitch packs
   (`specs/pitch-pack.md`), saved in `customers/<prospect>/`
 - Routine: `routines/weekly-business-development.md`, every Monday
-- Never: sends outreach, quotes a price (pricing is not set yet), or names a
-  third party as the source of a wrong assumption.
+- Never: sends outreach, quotes a price (Baba prices every job from the
+  client's budget and the scope), or names a third party as the source of a
+  wrong assumption.
 
 ### Reporting analyst
 
@@ -126,7 +127,7 @@ level.
 | `context/` | Who we are, who buys, how we write, what we can prove, talent, systems, lessons |
 | `customers/` | One folder per client or prospect, the pipeline, the government tracker |
 | `offers/` | The Creator Visibility Offer and the government programmes |
-| `specs/` | What each deliverable must contain and what done looks like |
+| `specs/` | What each deliverable must contain and what done looks like, including how to merge a client's design with AToure's |
 | `demos/` | What we show a prospect before they sign |
 | `tickets/` | Tasks, one outcome each |
 | `routines/` | Recurring work each AI employee runs |

@@ -22,7 +22,8 @@ material.
 
 - [ ] `demos/festival/deck-source/` with all eight slides adapted
 - [ ] `demos/festival/sample-report.html`, marked fictional in red on page one
-- [ ] Brand kit look: gold, black and cream, Cormorant Garamond and Jost
+- [ ] An invented festival identity merged with AToure's, following
+      `specs/client-design.md`, with `demos/festival/design.md`
 - [ ] Track record slide says 1.87 billion for the Ashton Hall Africa Tour
 - [ ] Invented festival name and creator handles; no real prospect's logo
 - [ ] Totals consistent from post to creator to summary

@@ -130,6 +130,9 @@ everything as commercial viability: this is where new money comes from.
 | Report only | AToure collects the data and produces the visibility report; the client keeps managing its own creators | When the client already runs creators well |
 | Talent access | Guest access or paid placements for AToure creators and streamers | When the client wants talent but not management |
 
+Pricing is set per client by Baba, from the client's budget and the scope
+of the work and responsibilities. There is no price list.
+
 Price the report as its own product. When it is bundled, a client who says
 no to management also says no to the report.
 

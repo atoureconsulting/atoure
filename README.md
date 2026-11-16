@@ -33,6 +33,10 @@ for.
   films in code in 99 styles. It is turned on for this repository in
   `.claude/settings.json`, so Claude Code offers it when you open the repo.
   The upstream repository is linked in `source/`.
+- `tools/ponytail/`: Ponytail, a Claude Code plugin that keeps code changes
+  as small as possible. Its marketplace is declared in
+  `.claude/settings.json` but the plugin is not turned on. The guide says
+  why and how to switch it on.
 
 ## Adding something new
 

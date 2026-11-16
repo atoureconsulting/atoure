@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": {
+    "lemolab": {
+      "source": {
+        "source": "github",
+        "repo": "lemomo-ai/lemo-opuscar",
+        "sparsePaths": [
+          ".claude-plugin",
+          "plugin"
+        ]
+      }
+    }
+  },
+  "enabledPlugins": {
+    "lemo-opuscar@lemolab": true
+  }
+}

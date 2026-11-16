@@ -29,6 +29,10 @@ for.
   the free tiers of about 87 AI providers behind one key. The upstream
   repository is linked in `source/` as a git submodule. Read the guide's
   rules before using it on AToure work.
+- `tools/lemo-opuscar/`: Lemo-Opuscar, a Claude Code plugin that makes short
+  films in code in 99 styles. It is turned on for this repository in
+  `.claude/settings.json`, so Claude Code offers it when you open the repo.
+  The upstream repository is linked in `source/`.
 
 ## Adding something new
 

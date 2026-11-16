@@ -1,3 +1,7 @@
 [submodule "tools/freellmapi/source"]
 	path = tools/freellmapi/source
 	url = https://github.com/tashfeenahmed/freellmapi.git
+[submodule "tools/lemo-opuscar/source"]
+	path = tools/lemo-opuscar/source
+	url = https://github.com/lemomo-ai/lemo-opuscar.git
+	shallow = true

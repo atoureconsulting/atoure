@@ -8,6 +8,7 @@ first two were built with the Creator Visibility Offer
 |---|---|---|
 | `pfl-africa/` | PFL Africa, Rwanda Season Finals trial (October 2026) | Deck PDF, deck source, sample report PDF and web page |
 | `african-mma-league/` | African MMA League (October 2026) | Deck PDF, deck source, sample report PDF and web page |
+| `mairie-yopougon/` | Mairie de Yopougon, screening of the YoPay / CityFractal proposal (November 2026) | Meeting report PDF in French and English |
 
 ## In each folder
 

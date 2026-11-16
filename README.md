@@ -22,6 +22,8 @@ for.
   report, October 2026.
 - `clients/african-mma-league/`: trial proposal and sample report, October
   2026.
+- `clients/mairie-yopougon/`: meeting report on the YoPay / CityFractal
+  proposal, in French and English, November 2026.
 
 ## Tools
 

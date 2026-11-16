@@ -37,6 +37,8 @@ for.
   as small as possible. Its marketplace is declared in
   `.claude/settings.json` but the plugin is not turned on. The guide says
   why and how to switch it on.
+- `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
+  skills and plugins, with the scan results for the plugins above.
 
 ## Adding something new
 
@@ -45,4 +47,6 @@ for.
   and any reports inside.
 - A new tool: a folder in `tools/` with a `README.md` covering setup and
   rules for use.
+- A new Claude Code plugin or skill: scan it with SkillSpector first and add
+  the result to `tools/skillspector/README.md`.
 - Brand assets only ever go in `brand/`.

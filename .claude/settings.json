@@ -1,6 +1,7 @@
 {
   "enabledPlugins": {
-    "lemo-opuscar@lemolab": true
+    "lemo-opuscar@lemolab": true,
+    "andrej-karpathy-skills@karpathy-skills": true
   },
   "extraKnownMarketplaces": {
     "lemolab": {
@@ -17,6 +18,12 @@
       "source": {
         "source": "github",
         "repo": "DietrichGebert/ponytail"
+      }
+    },
+    "karpathy-skills": {
+      "source": {
+        "source": "github",
+        "repo": "forrestchang/andrej-karpathy-skills"
       }
     }
   }

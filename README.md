@@ -37,6 +37,10 @@ for.
   as small as possible. Its marketplace is declared in
   `.claude/settings.json` but the plugin is not turned on. The guide says
   why and how to switch it on.
+- `tools/karpathy-guidelines/`: Karpathy Guidelines, a Claude Code plugin
+  with four rules for writing code (ask before guessing, build only what was
+  asked, change only what is needed, check the result). Turned on in
+  `.claude/settings.json`.
 - `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
   skills and plugins, with the scan results for the plugins above.
 

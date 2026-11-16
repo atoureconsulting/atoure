@@ -41,6 +41,11 @@ for.
   with four rules for writing code (ask before guessing, build only what was
   asked, change only what is needed, check the result). Turned on in
   `.claude/settings.json`.
+- `tools/impeccable/`: Impeccable, a Claude Code plugin that gives Claude
+  design judgement for decks, reports and web pages, with review commands
+  and a design checker. Turned on in `.claude/settings.json`. The guide
+  includes the first check of the sample reports and which brand colours
+  are readable as text.
 - `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
   skills and plugins, with the scan results for the plugins above.
 

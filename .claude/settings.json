@@ -1,7 +1,8 @@
 {
   "enabledPlugins": {
     "lemo-opuscar@lemolab": true,
-    "andrej-karpathy-skills@karpathy-skills": true
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "impeccable@impeccable": true
   },
   "extraKnownMarketplaces": {
     "lemolab": {
@@ -25,6 +26,19 @@
         "source": "github",
         "repo": "forrestchang/andrej-karpathy-skills"
       }
+    },
+    "impeccable": {
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable",
+        "sparsePaths": [
+          ".claude-plugin",
+          "plugin"
+        ]
+      }
     }
+  },
+  "env": {
+    "IMPECCABLE_LIVE_COPY_AGENT": "chat"
   }
 }

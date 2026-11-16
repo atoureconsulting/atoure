@@ -18,7 +18,11 @@ first two were built with the Creator Visibility Offer
   slide) and the images they use (`assets/`, named by the asset id each slide
   references). Copy this to start a new deck.
 - `sample-report.pdf` and `sample-report.html`: the post event report with
-  fictional creators and figures. Page one says so in red.
+  fictional creators and figures. Page one says so in red. After changing
+  the page, rebuild the PDF with `node clients/render-report-pdf.mjs
+  clients/<client>/sample-report.html clients/<client>/sample-report.pdf`
+  (needs Playwright). It lays the page out as the client PDF: A4 landscape,
+  one section per page.
 
 ## Live versions
 

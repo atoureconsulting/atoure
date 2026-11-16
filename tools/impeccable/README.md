@@ -81,6 +81,11 @@ found the same four problems in each:
   light background reaches 3.5:1 and 3.2:1; small text needs 4.5:1.
 - **The "Est." labels are 10px**, under the 11px minimum for readable text.
 
+**Fixed the same day.** Gold text in both reports now uses `#846915`, the
+same gold a shade deeper (5.2:1 on white, 4.8:1 on the light background),
+and the "Est." labels are 11px. The original gold stays on the decorative
+border. Both PDFs were rebuilt, and the checker now finds nothing.
+
 The reason is the palette, not the reports. Contrast of the brand colours as
 text:
 

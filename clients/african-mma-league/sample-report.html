@@ -4,7 +4,7 @@
 <style>
 /* Layout: a white letterhead document, one column, sections read top to bottom like a board paper */
 :root{
-  --bg:#ffffff; --soft:#f5f6f3; --line:#e2e4de; --fg:#16201c; --muted:#5d6763; --gold:#a8851a; --green:#2f7a5c; --red:#c8102e;
+  --bg:#ffffff; --soft:#f5f6f3; --line:#e2e4de; --fg:#16201c; --muted:#5d6763; --gold:#a8851a; --gold-ink:#846915; --green:#2f7a5c; --red:#c8102e;
   --display:Oswald, "Arial Narrow", sans-serif; --body:"Public Sans", system-ui, sans-serif;
   color-scheme:light;
 }
@@ -26,7 +26,7 @@ h1{font-size:clamp(30px,5vw,44px);line-height:1.1}
 .meta b{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);font-weight:600}
 section{display:flex;flex-direction:column;gap:16px}
 h2{font-size:22px;padding-bottom:8px;border-bottom:1px solid var(--line);display:flex;gap:14px;align-items:baseline}
-h2 span{color:var(--gold);font-size:15px}
+h2 span{color:var(--gold-ink);font-size:15px}
 h3{font-size:15px;letter-spacing:1px}
 .lede{font-size:18px;line-height:1.55;max-width:62ch}
 .kpis{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line)}
@@ -35,7 +35,7 @@ h3{font-size:15px;letter-spacing:1px}
 .kpi .n{font-family:var(--display);font-size:34px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.1}
 .kpi .l{font-size:13px;color:var(--muted)}
 .kpi.lead .n{color:var(--green)}
-.est{font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--gold);font-weight:700;margin-left:4px}
+.est{font-size:11px;letter-spacing:1px;text-transform:uppercase;color:var(--gold-ink);font-weight:700;margin-left:4px}
 .scroll{overflow-x:auto}
 table{border-collapse:collapse;width:100%;min-width:700px;font-variant-numeric:tabular-nums;font-size:14px}
 th,td{padding:9px 10px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}

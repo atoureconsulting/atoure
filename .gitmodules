@@ -1,0 +1,3 @@
+[submodule "tools/freellmapi/source"]
+	path = tools/freellmapi/source
+	url = https://github.com/tashfeenahmed/freellmapi.git

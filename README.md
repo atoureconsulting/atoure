@@ -8,6 +8,7 @@ for.
 | `brand/` | The brand kit: logos, fonts, colour palette, legacy logo sources and reference files. Start with `brand/README.md` |
 | `offers/` | The written offers AToure takes to clients, each ready to adapt to new events and sectors |
 | `clients/` | One folder per client: decks, sample reports and other material made for them |
+| `tools/` | Software AToure runs for its own work, each with a guide on how to set it up and use it |
 
 ## Offers
 
@@ -22,9 +23,18 @@ for.
 - `clients/african-mma-league/`: trial proposal and sample report, October
   2026.
 
+## Tools
+
+- `tools/freellmapi/`: FreeLLMAPI, a free self-hosted AI gateway that pools
+  the free tiers of about 87 AI providers behind one key. The upstream
+  repository is linked in `source/` as a git submodule. Read the guide's
+  rules before using it on AToure work.
+
 ## Adding something new
 
 - A new offer: a folder in `offers/` with its own `README.md`.
 - A new client: a folder in `clients/` named after the client, with the deck
   and any reports inside.
+- A new tool: a folder in `tools/` with a `README.md` covering setup and
+  rules for use.
 - Brand assets only ever go in `brand/`.

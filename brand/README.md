@@ -24,6 +24,7 @@ brand-kit/
 │   └── atoure-palette.ase          ← Adobe swatch file (Illustrator/Photoshop)
 └── 04-business-cards/
     ├── atoure-business-card-final-print.pdf      ← Baba Touré, the card to print: English and French front, English back
+    ├── atoure-business-card-aziz-bictogo-print.pdf ← Aziz Bictogo, Chief Project Manager, same design
     ├── atoure-business-card-english-print.pdf    ← Baba Touré, English front and back
     └── atoure-business-card-bilingual-print.pdf  ← Baba Touré, English and French front, French back
 ```

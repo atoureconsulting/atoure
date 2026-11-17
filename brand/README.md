@@ -23,8 +23,9 @@ brand-kit/
 │   ├── colours.txt                 ← hex / RGB / approx CMYK
 │   └── atoure-palette.ase          ← Adobe swatch file (Illustrator/Photoshop)
 └── 04-business-cards/
-    ├── atoure-business-card-english-print.pdf    ← Baba Touré, English
-    └── atoure-business-card-bilingual-print.pdf  ← Baba Touré, English front, French back
+    ├── atoure-business-card-final-print.pdf      ← Baba Touré, the card to print: English and French front, English back
+    ├── atoure-business-card-english-print.pdf    ← Baba Touré, English front and back
+    └── atoure-business-card-bilingual-print.pdf  ← Baba Touré, English and French front, French back
 ```
 
 The business card PDFs are print-ready: 85 × 55 mm, double-sided (page 1

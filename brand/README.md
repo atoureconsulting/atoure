@@ -18,11 +18,19 @@ brand-kit/
 │   ├── CormorantGaramond-*.ttf     ← 7 weights + italics
 │   ├── Jost-*.ttf                  ← 6 weights + italic
 │   └── OFL-*.txt                   ← licences (free for commercial use)
-└── 03-colours/
-    ├── palette.png                 ← visual swatch sheet
-    ├── colours.txt                 ← hex / RGB / approx CMYK
-    └── atoure-palette.ase          ← Adobe swatch file (Illustrator/Photoshop)
+├── 03-colours/
+│   ├── palette.png                 ← visual swatch sheet
+│   ├── colours.txt                 ← hex / RGB / approx CMYK
+│   └── atoure-palette.ase          ← Adobe swatch file (Illustrator/Photoshop)
+└── 04-business-cards/
+    ├── atoure-business-card-english-print.pdf    ← Baba Touré, English
+    └── atoure-business-card-bilingual-print.pdf  ← Baba Touré, English front, French back
 ```
+
+The business card PDFs are print-ready: 85 × 55 mm, double-sided (page 1
+front, page 2 back), 3 mm bleed included, no crop marks. The QR code on the
+back opens atoureconsulting.com. Ask the printer to match the gold to
+`#C8A951` and to print the black front as rich black.
 
 ---
 

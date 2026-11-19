@@ -63,9 +63,15 @@ npm install --no-audit --no-fund
 Pop-Location
 
 Say 'SkillSpector'
+# uv writes notes such as "No tools installed" to stderr. Windows PowerShell 5.1
+# turns redirected stderr into errors, which 'Stop' would make fatal, so this
+# section checks uv's exit code instead.
+$ErrorActionPreference = 'Continue'
 $installed = (uv tool list 2>$null) -match '^skillspector '
 if ($installed) { uv tool upgrade skillspector } else { uv tool install git+https://github.com/NVIDIA/skillspector.git }
+if ($LASTEXITCODE -ne 0) { Write-Host 'SkillSpector did not install: see the message above.'; exit 1 }
 uv tool update-shell 2>$null | Out-Null
+$ErrorActionPreference = 'Stop'
 Refresh-Path
 
 Say 'Check'

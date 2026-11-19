@@ -1,8 +1,14 @@
 {
+  "env": {
+    "IMPECCABLE_LIVE_COPY_AGENT": "chat",
+    "WATCH_ENGINE": "local",
+    "WATCH_DETAIL": "efficient"
+  },
   "enabledPlugins": {
     "lemo-opuscar@lemolab": true,
     "andrej-karpathy-skills@karpathy-skills": true,
-    "impeccable@impeccable": true
+    "impeccable@impeccable": true,
+    "watch@claude-video": true
   },
   "extraKnownMarketplaces": {
     "lemolab": {
@@ -36,9 +42,12 @@
           "plugin"
         ]
       }
+    },
+    "claude-video": {
+      "source": {
+        "source": "github",
+        "repo": "bradautomates/claude-video"
+      }
     }
-  },
-  "env": {
-    "IMPECCABLE_LIVE_COPY_AGENT": "chat"
   }
 }

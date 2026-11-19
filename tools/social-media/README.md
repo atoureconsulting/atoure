@@ -21,7 +21,8 @@ AToure folder):
 | BrightBean Studio | `.claude/skills/brightbean-studio/` | Lets Claude draft, schedule and cancel posts and read analytics in BrightBean Studio | Waiting for your BrightBean account (setup below) |
 
 **Plugins already on for this repository:** Impeccable (design checks for
-pages and websites), Lemo-Opuscar (films made in code), Karpathy Guidelines.
+pages and websites), Lemo-Opuscar (films made in code), Karpathy Guidelines,
+Watch (reviews videos and reels, `tools/watch/`).
 
 **Connected to your Claude account:**
 - Higgsfield: images, video, thumbnails, trending audio, virality check.

@@ -56,6 +56,9 @@ for.
   and a design checker. Turned on in `.claude/settings.json`. The guide
   includes the first check of the sample reports and which brand colours
   are readable as text.
+- `tools/watch/`: Watch, a Claude Code plugin that lets Claude review videos
+  and reels from a file or a link. Turned on in `.claude/settings.json`, set to
+  local mode so nothing is sent to Google by default.
 - `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
   skills and plugins, with the scan results for the plugins above.
 

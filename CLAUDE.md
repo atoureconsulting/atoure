@@ -27,6 +27,7 @@ Full guide and diagram: `tools/social-media/README.md`.
 | Instagram insights and simple posting today | Windsor.ai connector, account `atoure.management` |
 | Drafts, client approval, scheduling, inbox, analytics (Instagram, LinkedIn and more) | `brightbean-studio` skill, once BrightBean Studio is connected |
 | Voice and wording checks | brand-voice skills |
+| Reviewing videos and reels (frames and transcript) | Watch plugin (`tools/watch/`). Local mode is the default here; use Gemini only when the user asks and never for client or creator material |
 
 Design Engine's export scripts need `npm install` once in
 `.claude/skills/design-engine/scripts`.

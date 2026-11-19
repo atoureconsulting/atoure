@@ -25,6 +25,9 @@ for.
 
 ## Tools
 
+- `tools/social-media/`: the social media and website stack. How the skills
+  and connectors below work together for Instagram, LinkedIn and the
+  website, with a diagram. Start here for social media.
 - `tools/freellmapi/`: FreeLLMAPI, a free self-hosted AI gateway that pools
   the free tiers of about 87 AI providers behind one key. The upstream
   repository is linked in `source/` as a git submodule. Read the guide's
@@ -48,6 +51,16 @@ for.
   are readable as text.
 - `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
   skills and plugins, with the scan results for the plugins above.
+
+## Skills and settings for Claude
+
+- `CLAUDE.md`: which tool Claude uses for which job, and the house rules.
+- `.claude/skills/atoure-social/`: AToure's own content skill (video ideas,
+  hooks, scripts, carousels, calendars, post-mortems).
+- `.claude/skills/design-engine/`: Claude Design Engine by Rahaman Bin Ujit,
+  for post images and carousels. Brand settings in `brand.config.json`.
+- `.claude/skills/brightbean-studio/`: lets Claude schedule and measure posts
+  in BrightBean Studio once it is connected.
 
 ## Adding something new
 

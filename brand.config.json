@@ -1,0 +1,75 @@
+{
+  "_about": "Brand settings for the Design Engine skill (.claude/skills/design-engine). Built from brand/README.md and brand/03-colours/colours.txt. Change the brand kit first, then this file.",
+  "identity": {
+    "name": "AToure Management & Consulting",
+    "designation": "Creators, talent and events, made provable",
+    "handle_instagram": "@atoure.management",
+    "website": "atoureconsulting.com",
+    "logo_path": "brand/01-logos/atoure/atoure-nav-lockup-on-dark.png",
+    "logo_path_on_dark": "brand/01-logos/atoure/atoure-nav-lockup-on-dark.png",
+    "logo_path_on_light": "brand/01-logos/atoure/atoure-nav-lockup-on-light.png",
+    "monogram_path_on_dark": "brand/01-logos/atoure/atoure-icon-on-black.png",
+    "logo_position": "bottom-left",
+    "logo_size": "small"
+  },
+  "platform": {
+    "primary": "instagram",
+    "secondary": ["linkedin", "website"],
+    "default_width": 1080,
+    "default_height": 1350,
+    "sizes": {
+      "instagram_feed": [1080, 1350],
+      "instagram_square": [1080, 1080],
+      "instagram_story_reel_cover": [1080, 1920],
+      "linkedin_post": [1080, 1350],
+      "linkedin_carousel_slide": [1080, 1350],
+      "website_hero": [1920, 1080],
+      "youtube_thumbnail": [1280, 720]
+    }
+  },
+  "typography": {
+    "display_font": "Cormorant Garamond",
+    "display_weights": [500, 600, 700],
+    "display_italic": true,
+    "body_font": "Jost",
+    "body_weights": [300, 400, 500, 600],
+    "mono_font": null,
+    "label_style": "Jost 500, uppercase, letter-spacing 0.18em (stands in for a mono accent font)",
+    "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Jost:wght@300;400;500;600&display=swap",
+    "local_font_files": "brand/02-fonts/"
+  },
+  "colors": {
+    "background": "#0D0C0A",
+    "background_soft": "#1A1814",
+    "text_primary": "#FAF6EE",
+    "text_secondary": "rgba(250,246,238,0.72)",
+    "text_muted": "rgba(250,246,238,0.5)",
+    "accent": "#C8A951",
+    "accent_light": "#E0C47A",
+    "accent_glow": "rgba(200,169,81,0.35)",
+    "card_bg": "rgba(250,246,238,0.05)",
+    "card_border": "rgba(200,169,81,0.25)",
+    "light_theme": {
+      "background": "#FAF6EE",
+      "text_primary": "#0D0C0A",
+      "text_secondary": "#5C5040",
+      "accent_large_text_only": "#A08830",
+      "accent_small_text": "#846915"
+    },
+    "event_accent_race_weekend": "#D30F1F"
+  },
+  "contrast_rules": [
+    "Gold #C8A951 is readable as text only on AToure Black or Black Soft. On cream or white it is decoration only (rules, borders, shapes).",
+    "On light backgrounds: small text in #0D0C0A or #5C5040; gold text only as #846915, or #A08830 at 24px and up.",
+    "Use pure black or pure white nowhere: the black and cream are deliberately warm.",
+    "Race Weekend Red belongs to Race Weekend material only."
+  ],
+  "style": {
+    "vibe": "premium-luxury",
+    "content_type": "mix",
+    "content_mix": ["proof and results", "behind the scenes at events", "creator spotlights", "industry insight", "offers and calls to action"],
+    "border_radius": "2px",
+    "base_padding": "72px",
+    "grid_unit": 8
+  }
+}

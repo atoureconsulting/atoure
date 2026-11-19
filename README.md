@@ -9,6 +9,7 @@ for.
 | `offers/` | The written offers AToure takes to clients, each ready to adapt to new events and sectors |
 | `clients/` | One folder per client: decks, sample reports and other material made for them |
 | `tools/` | Software AToure runs for its own work, each with a guide on how to set it up and use it |
+| `content/` | AToure's own social media and website content: series plans, scripts, shot lists |
 
 ## Offers
 
@@ -22,6 +23,12 @@ for.
   report, October 2026.
 - `clients/african-mma-league/`: trial proposal and sample report, October
   2026.
+
+## Content
+
+- `content/sit-down-series/`: a talking-to-camera video series on African
+  market access, cutting between you and matching footage. Series plan,
+  filming guide and the full script for episode 1.
 
 ## Tools
 

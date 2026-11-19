@@ -11,6 +11,18 @@ for.
 | `tools/` | Software AToure runs for its own work, each with a guide on how to set it up and use it |
 | `content/` | AToure's own social media and website content: series plans, scripts, shot lists |
 
+## Set up your computer
+
+After cloning or pulling this repository, install the programs the Claude
+tools need, once:
+
+- Mac: `bash scripts/setup-local.sh` (needs Homebrew)
+- Windows: `powershell -ExecutionPolicy Bypass -File scripts\setup-local.ps1`
+  (needs winget)
+
+Then open the folder in Claude Code on your computer, trust it, and accept
+the plugins it offers. Both scripts are safe to run again.
+
 ## Offers
 
 - `offers/creator-visibility-offer/`: talent access, creator management on

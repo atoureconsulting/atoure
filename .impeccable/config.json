@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "tools/social-media/stack-diagram.html"
+        ],
+        "createdAt": "2026-11-19T13:17:55.487Z",
+        "reason": "Agent: static pairs mix the two themes (dark gold on white, default black on the dark ground). A Playwright render measured every text element in light and dark: all pass 4.5:1 except code highlights the measure misread (translucent tint). Recheck by rendering after colour changes."
+      }
+    ]
+  }
+}

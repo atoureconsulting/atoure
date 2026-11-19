@@ -1,0 +1,3 @@
+# Impeccable checker: local cache and private exceptions
+.impeccable/hook.cache.json
+.impeccable/config.local.json

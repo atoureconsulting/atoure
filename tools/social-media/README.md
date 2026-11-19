@@ -2,7 +2,12 @@
 
 How AToure plans, makes, approves, publishes and measures content for
 Instagram (@atoure.management), LinkedIn and atoureconsulting.com, and which
-tool does each job. The diagram is `stack-diagram.png` in this folder.
+tool does each job.
+
+- Diagram: `stack-diagram.png` in this folder.
+- Live page with the diagram, a card per channel and the setup steps:
+  https://claude.ai/artifact/LWn3gHQzEPBhBjZc9CBmGZ (private until you share
+  it). Its source is `stack-diagram.html`.
 
 ## What is installed
 

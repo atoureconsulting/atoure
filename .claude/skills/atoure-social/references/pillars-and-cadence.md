@@ -1,8 +1,8 @@
 # Content pillars and how often to post
 
-These are starting points for a B2B agency, not measured benchmarks. Adjust
-them with AToure's own results (Windsor.ai for Instagram, BrightBean
-analytics once connected).
+These are starting points for a B2B management and consulting company, not
+measured benchmarks. Adjust them with AToure's own results (Windsor.ai for
+Instagram, BrightBean analytics).
 
 ## Pillars for AToure
 

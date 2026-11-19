@@ -38,6 +38,8 @@ the plugins it offers. Both scripts are safe to run again.
 
 ## Content
 
+- `content/instagram/`: AToure's voice file and the Instagram skills'
+  working files (research swipe file, log).
 - `content/sit-down-series/`: a talking-to-camera video series on African
   market access, cutting between you and matching footage. Series plan,
   filming guide and the full script for episode 1.
@@ -71,6 +73,10 @@ the plugins it offers. Both scripts are safe to run again.
 - `tools/watch/`: Watch, a Claude Code plugin that lets Claude review videos
   and reels from a file or a link. Turned on in `.claude/settings.json`, set to
   local mode so nothing is sent to Google by default.
+- `tools/instagram-skills/`: ten Instagram skills (hook scoring, script
+  timing, caption checks, a humanizer, niche research, replies, DMs and
+  outreach), installed in `.claude/skills/ig-*`. Publishing stays with
+  BrightBean.
 - `tools/skillspector/`: SkillSpector, NVIDIA's security scanner for agent
   skills and plugins, with the scan results for the plugins above.
 
@@ -82,7 +88,8 @@ the plugins it offers. Both scripts are safe to run again.
 - `.claude/skills/design-engine/`: Claude Design Engine by Rahaman Bin Ujit,
   for post images and carousels. Brand settings in `brand.config.json`.
 - `.claude/skills/brightbean-studio/`: lets Claude schedule and measure posts
-  in BrightBean Studio once it is connected.
+  in BrightBean Studio, the only publisher.
+- `.claude/skills/ig-*`: the Instagram skills (see `tools/instagram-skills/`).
 
 ## Adding something new
 

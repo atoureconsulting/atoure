@@ -34,9 +34,16 @@ file in `references/`; read only the one the task needs.
   post into one visibility report a client can show sponsors, investors and
   its board. Full detail: `offers/creator-visibility-offer/README.md`.
 - **The one line:** creators produce visibility; AToure makes it provable.
-- **Track record to talk about:** combat sports (PFL Africa, African MMA
-  League), Race Weekend Abidjan, global talent relationships (Ashton Hall,
-  IShowSpeed), regional creators across Africa.
+- **What it is:** a management and consulting company. Never call it an
+  agency.
+- **Track record to talk about** (from the offer's "Why AToure" section):
+  IShowSpeed's Ivory Coast tour (55.8 million Instagram views), IShowSpeed in
+  Morocco (16 million live stream views), the Ashton Hall Africa Tour (confirm
+  which figure to quote before using one: see `pitch-playbook.md`), operator
+  experience in Ghana, Cameroon, Nigeria, Benin, Rwanda, Côte d'Ivoire and
+  Morocco, and creator, federation and government relationships.
+- **Not track record:** PFL Africa and the African MMA League were pitches,
+  not clients. Never present them as work AToure did.
 - **Who the content is for:** event organisers and leagues, sponsors and
   brands, investors, and creators who want to work with AToure. Audiences in
   Africa and the diaspora.

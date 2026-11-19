@@ -17,7 +17,7 @@ Changes made for AToure Management & Consulting (November 2026):
 - Retargeted from Chinese platforms (Xiaohongshu, Douyin, Bilibili, WeChat)
   to Instagram, LinkedIn and a company website.
 - Scoring weights, pillars, cadence and video idea families rewritten for a
-  B2B creator and events agency.
+  B2B creator and events management and consulting company.
 - Easel's runtime pieces (profiles, word-count scripts, publishing tools)
   removed; AToure's own tools are referenced instead.
 - Third-party statistics quoted in Easel's retention guide were left out,
